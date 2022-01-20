@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         rollButton.setOnClickListener { rollDice() }
 
         // Do a dice roll when the app starts
-        rollDice()
+        //rollDice()
     }
 
     // Roll the dice and update the screen with the result.
